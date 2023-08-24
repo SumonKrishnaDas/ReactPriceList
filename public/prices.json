@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "membershipType": "Basic",
+      "price": 30,
+      "features": ["Access to gym equipment", "Locker room usage"]
+    },
+    {
+      "id": 2,
+      "membershipType": "Standard",
+      "price": 50,
+      "features": ["Access to gym equipment", "Locker room usage", "Group fitness classes"]
+    },
+    {
+      "id": 3,
+      "membershipType": "Premium",
+      "price": 80,
+      "features": ["Access to gym equipment", "Locker room usage", "Group fitness classes", "Personal training sessions"]
+    }
+  ]
+  
